@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://osx-apps.github.io/.github/wifi">
+<a href="https://osx-app-installation.github.io/.github/wifi">
 <img src="https://img.shields.io/badge/⬇️_Get_WiFi_Analyzer_for_Mac-blue?style=for-the-badge&logo=apple" alt="Get WiFi Analyzer">
 </a>
 </div>
